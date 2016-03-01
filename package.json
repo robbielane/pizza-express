@@ -1,0 +1,32 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "A place to admire pizzas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbielane/pizza-express.git"
+  },
+  "keywords": [
+    "pizza",
+    "websockets"
+  ],
+  "author": "Robbie Lane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbielane/pizza-express/issues"
+  },
+  "homepage": "https://github.com/robbielane/pizza-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
